@@ -2,8 +2,7 @@
 
 ## Build
 
-[![Build Status](https://travisci.
-com/USERNAME/PROJECTNAME)](https://travis-ci.com/fgruber95/ASD-Battleship.svg)
+[![Build Status](https://travisci.com/fgruber95/ASD-Battleship.svg)](https://travis-ci.com/fgruber95/ASD-Battleship)
 
 ## Prerequisites
 ### Java
